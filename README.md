@@ -7,8 +7,6 @@ Obs.: all the certifications have the respective verified credential.
 
 Here is my public key in a case of a need for encrypted communication:
 
-Public PGP key:
-
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEasmA2hYJKwYBBAHaRw8BAQdAB9/R0698ci75sP7pc8gnU05xrPJ+DUwWu1wV
